@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saravanan
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning react and next JS and mongo DB 
+- 🌱 I’m currently learning react, next JS and mongo DB
 - 📫 here is my linked in profile https://www.linkedin.com/in/saravanans57/
 - 😄 Pronouns: he/him
 
